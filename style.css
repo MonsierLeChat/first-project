@@ -28,17 +28,21 @@ body {
     flex-direction: row;
     gap: 3px;
     list-style: circle;
-    padding: 133px 0px 133px 50px;
+    padding: 133px 0px 138px 50px;
+    
     margin: 0;
 
 }
 .header_nav ul {
     display: flex;
     list-style: circle;
+    max-height: 22px;
     gap: 16px;
+    margin: 0;
 }
 .header_nav li {
   padding: 5px 5px; 
+  max-height: 22px;
 }
 .first_ {
     display: flex;
