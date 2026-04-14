@@ -26,15 +26,16 @@ body {
 .header_nav {
     display: flex;
     justify-self: center;
+    padding-left: 50px;
 }
 
 .links {
     display: flex;
     list-style-type: circle;
-    padding-right: 7px;
-    gap: 32px;
+    gap: 25px;
     font-weight: 400;
     font-size: 18px;
+    padding-left: 0;
 }
 
 .main_link {
@@ -153,7 +154,7 @@ body {
     font-size: 40px;
     line-height: 100%;
     text-transform: uppercase;
-    margin-top: 180px;
+    margin-top: 156px;
     margin-bottom: 0px;
 }
 
@@ -305,7 +306,7 @@ body {
 }
 
 .footer_menu {
-    padding-left: 35px;
+    padding-left: 0px;
 }
 
 .footer_links {
@@ -314,6 +315,8 @@ body {
     font-size: 18px;
     line-height: 24.3px;
     list-style-type: none;
+    margin: 0;
+    padding-left: 0px;
 }
 
 .footer_main-link {
