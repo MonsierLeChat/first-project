@@ -179,7 +179,7 @@ body {
     z-index: 0;
 }
 
-.card_film{
+.card_film {
     background-image: url(/images/card\ 1.jpg);
     max-width: 334px;
     max-height: 596px;
@@ -187,21 +187,21 @@ body {
 
 }
 
-.card_book{
+.card_book {
     background-image: url(/images/card\ 2.png);
     max-width: 334px;
     max-height: 596px;
     flex-grow: 1;
 }
 
-.card_pict{
+.card_pict {
     background-image: url(/images/card\ 3.jpg);
     max-width: 334px;
     max-height: 596px;
     flex-grow: 1;
 }
 
-.card_title{
+.card_title {
     color: white;
     font-weight: 700;
     font-style: Bold;
@@ -216,7 +216,7 @@ body {
     margin: o;
 }
 
-.text_card{
+.text_card {
     color:  white;
     font-weight: 400;
     font-style: Regular;
