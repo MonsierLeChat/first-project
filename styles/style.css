@@ -54,7 +54,7 @@ main {
 }
 
 .address {
-    font-style: inherit;
+    font-style: in;
 }
 
 .contacts {
@@ -245,7 +245,7 @@ main {
 
 .about{
     display: grid;
-    grid-template-columns: 310px repeat(1, 1fr) ;
+    grid-template-columns: 1fr 2fr ;
     gap: 25px;
     padding: 0 50px;
     
